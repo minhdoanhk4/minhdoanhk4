@@ -1,16 +1,14 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=TienNHM&color=green" alt="Profile views" /> 
-    
     <h1>👋 Xin Chào! Tôi là DO ANH MINH</h1>
-    
     <p>
         <img src="https://img.shields.io/badge/Vietnam-FF0000?style=for-the-badge&logo=vietnam&logoColor=yellow" alt="Vietnam Flag" />
         <img src="https://img.shields.io/badge/FPT_University-Orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIuMDU1IiB5MT0iLjg3OSIgeDI9IjkxLjk3OCIgeTI9Ii4yNTQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmMGUwNTEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZjc3MDAiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjEwMCIgZmlsbD0iI2Y5MDAwMCIvPjxwYXRoIGQ9Ik03My40IDU4LjlMMTM1IDQ1LjV2MjEuMUg5Ni41VjkwSDc1LjZWMjEuNUw0NS40IDU0LjlMNzMuNCA1OC45ek0xNTQuMiAxMzAuNXYxNC44TTEyOS41IDc2LjFjMCAwIDMxLjcgMCA1MS41IDAgNDYuOCAwIDU2LjggMTcuMyA1Ni44IDUzLThzLTkuNyA1NS4xLTU3LjcgNTUuMWMtMzEuMyAwLTUwLjktMjAuNi01MC45LTU1LjFIMTA2Yy0xLjMgMTYuNyA2IDM0LjMgMjMgMzQuMyAxMi4yIDAgMjAtNS45IDIwLTExLjRzLTYtOS42LTE5LjgtOS42VjcxLjloLTE2LjZ6bTMxLjMtMTYuNWMwLTExLjIgMy41LTE5LjcgMTkuMS0xOS43IDE2LjcgMCAxOS42IDEwLjIgMTkuNiAxOS43SDI2LjJjLTE1LjYgMC0xNy40LTE3LjEtMTcuNC0zNC41IDAtMTkuMyA3LjctMzIuNiAzNC42LTMzLjcgMjIuMy0uNyA0MS4yIDEzLjYgNDEuMiAzMi43VjEwMC40aDE3Ljd2MTQuN2g0LjRjMTIuMiAwIDE2LjcgNS45IDE2LjcgMTIuMXMtNS43IDEyLjEtMTcgMTIuMVoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="FPT U" />
     </p>
 
-    <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%; height: auto;"/>
+<img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%; height: auto;"/>
     
-    <p>Sinh viên Đại học FPT, chuyên ngành .NET.</p>
+<p>Sinh viên Đại học FPT, chuyên ngành .NET.</p>
 </div>
 
 ---
@@ -46,9 +44,7 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TienNHM&theme=highcontrast" alt="GitHub Streak" style="margin: 10px;"/>
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNHM&layout=compact&theme=outrun&langs_count=6" alt="Top Languages" style="margin: 10px;"/>
-    
     <img src="https://github-profile-trophy.vercel.app/?username=TienNHM&theme=dracula" alt="GitHub Trophies" style="margin-top: 20px;"/>
 </div>
 
