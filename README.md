@@ -5,11 +5,8 @@
   <img src="https://www.worldatlas.com/r/w960-q80/img/flag/vn-flag.jpg" alt="Vietnam Flag" width="80" height="50"/>
   <img src="https://sro.fptucantho.vn/images/2020-FPTU-Eng.png" alt="FPT U" width="80" height="50"/>
 </p>
-
-
-<img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%; height: auto;"/>
     
-<p>Sinh viên Đại học FPT, chuyên ngành .NET.</p>
+<p>Sinh viên Đại học FPT, chuyên ngành Software Engineering.</p>
 </div>
 
 ---
@@ -18,8 +15,8 @@
 
 | **🔭 Tôi đang làm việc trên** | **🌱 Tôi đang học thêm về** |
 | :--- | :--- |
-| Phát triển các dự án **[Loại Dự án/Công nghệ, ví dụ: Mobile App với Flutter]** cho môn học/CLB. | Kiến thức chuyên sâu về **[Công nghệ, ví dụ: Design Patterns trong Java]** và chuẩn bị cho kỳ thực tập sắp tới. |
-| Là thành viên tích cực tại **[Tên CLB/Đội nhóm, ví dụ: FPT Software Club]**. | **[Kỹ năng mềm, ví dụ: Technical Writing]** và cách làm việc nhóm chuyên nghiệp. |
+| Phát triển các dự án Phần mềm quản lí danh sách cho môn học .NET. | Kiến thức chuyên sâu về WPF, .NET, BA, Testing và chuẩn bị cho kỳ thực tập sắp tới. |
+| Là thành viên tích cực, nỗ lực học hỏi và cách làm việc nhóm chuyên nghiệp. |
 
 ---
 
@@ -27,8 +24,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C#" />
+  
 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -37,6 +34,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/SQL Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Server" />
+
 </p>
 
 ---
@@ -53,8 +52,7 @@
 
 ### 💬 Kết Nối
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Đường dẫn LinkedIn của bạn])
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Email của bạn])
+[![Email] [(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] Gmail: doanhminh237@gmail.com
 [![Website](https://img.shields.io/badge/Website/Blog-1EAE98?style=for-the-badge&logo=About.me&logoColor=white)]([Đường dẫn Website cá nhân/Blog FPT, nếu có])
 
 ---
