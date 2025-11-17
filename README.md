@@ -1,30 +1,11 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=TienNHM&color=green" alt="Profile views" /> 
     <h1>👋 Xin Chào! Tôi là DO ANH MINH</h1>
-    <p class="flag-fpt-row">
-  <img class="flag-fpt-img" src="https://www.worldatlas.com/r/w960-q80/img/flag/vn-flag.jpg" alt="Vietnam Flag" />
-  <img class="flag-fpt-img" src="https://sro.fptucantho.vn/images/2020-FPTU-Eng.png" alt="FPT U" />
+    <p align="center">
+  <img src="https://www.worldatlas.com/r/w960-q80/img/flag/vn-flag.jpg" alt="Vietnam Flag" width="80" height="50"/>
+  <img src="https://sro.fptucantho.vn/images/2020-FPTU-Eng.png" alt="FPT U" width="80" height="50"/>
 </p>
 
-<style>
-  .flag-fpt-row {
-    display: flex;
-    align-items: center;    /* căn giữa theo trục dọc */
-    justify-content: center;/* căn giữa theo trục ngang */
-    gap: 12px;              /* khoảng cách giữa 2 ảnh */
-    margin: 8px 0;
-  }
-  .flag-fpt-img {
-    height: 36px;           /* kích thước “vừa phải” (có thể chỉnh 32–48px) */
-    width: auto;            /* giữ đúng tỷ lệ gốc */
-    object-fit: contain;    /* tránh méo ảnh */
-  }
-
-  /* Nếu ảnh FPT bị quá dài ngang, có thể giới hạn thêm: */
-  .flag-fpt-img[alt="FPT U"] {
-    max-width: 160px;
-  }
-</style>
 
 <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%; height: auto;"/>
     
